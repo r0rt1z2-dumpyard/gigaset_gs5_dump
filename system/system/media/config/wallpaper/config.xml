@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+ 
+
+ 
+ 
+ <item-info> 
+    <name>流光异彩;流光异彩;Flowing light</name>
+	<id>default_wallpaper</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>沙幕绘彩;沙幕绘彩;Desert painting</name>
+	<id>wallpaper_01_cust</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>旋律流动;旋律流动;Melodic flow</name>
+	<id>wallpaper_02_cust</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>温婉危险;温婉危险;Gentle and dangerous</name>
+	<id>wallpaper_03_cust</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>幻彩空灵;幻彩空灵;Illusory and ethereal</name>
+	<id>wallpaper_04_cust</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>山峦夜色;山峦夜色;Mountain night</name>
+	<id>wallpaper_05_cust</id>
+ </item-info>
+ 
+ <item-info> 
+    <name>星光璀璨;星光璀璨;Bright stars</name>
+	<id>wallpaper_06_cust</id>
+ </item-info>
+ 
+</items>
